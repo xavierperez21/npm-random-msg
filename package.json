@@ -1,5 +1,5 @@
 {
-  "name": "random-messages",
+  "name": "random-messages96",
   "version": "1.0.0",
   "description": "random de mensajes",
   "main": "src/index.js",
@@ -16,5 +16,5 @@
   "bin": {
     "random-msg": "./bin/global.js"
   },
-  "preferGlobal": true  
+  "preferGlobal": true
 }

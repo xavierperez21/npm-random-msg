@@ -3,7 +3,9 @@ const messages = [
     "Jorge",
     "Chava",
     "Erick",
-    "Andrea"
+    "Andrea",
+    "Mariana",
+    "Adriana"
 ];
 
 const randomMsg = () => {
@@ -11,4 +13,4 @@ const randomMsg = () => {
     console.log(message);
 }
 
-export default { randomMsg };
+module.exports = { randomMsg };
