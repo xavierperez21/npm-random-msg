@@ -1,7 +1,8 @@
 
 # random-messages
-
-Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
+Hi! this project is done thanks to the NPM Course at Platzi. 
+In this course we create this litte project to know more about npm handling dependencies and configurations of the project. We also published this project in npmjs.com
+The functionality of this little project is to generate random names when you execute it in your terminal with the command "random-msg".
 
 ## Install
 
